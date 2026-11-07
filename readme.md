@@ -59,4 +59,4 @@ Copyright (c) 2026 Ryze. All Rights Reserved.
 
 Unauthorized copying, modification, distribution, or redistribution is prohibited without prior written permission from the copyright owner.
 
-See the [LICENSE](LICENSE) file for the complete license terms.
+See the [LICENSE](https://github.com/Ryze282747/python-breadcrumbs-showcase/blob/main/LICENSE) file for the complete license terms.
