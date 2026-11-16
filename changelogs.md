@@ -3,6 +3,16 @@
 
 All notable changes to Python Breadcrumbs will be documented in this file.
 
+## [2.1.0] - 2026-11-16
+
+### Fixed
+
+- Fixed various bugs affecting plugin functionality.
+
+### Changed
+
+- Updated the price into 15 INR
+
 ## [2.0.0] - 2026-11-07
 
 ### Added

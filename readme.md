@@ -36,9 +36,9 @@ A Python-focused navigation extension for Acode, powered by Tree-sitter. Navigat
 
 ## Version
 
-**Current version:** 2.0.0
+**Current version:** 2.1.0
 
-**Price:** ₹30 INR
+**Price:** ₹15 INR
 
 ## Developer
 
